@@ -4,8 +4,10 @@
 
 <div class="container">
   <div class="row">
-    <img src="https://github-readme-stats.vercel.app/api?username=thanhtunguet&show_icons=true&hide_border=true" alt="repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtunguet" alt="Top langs">
+    <div class="col align-items-start">
+      <img src="https://github-readme-stats.vercel.app/api?username=thanhtunguet&show_icons=true&hide_border=true" alt="repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtunguet" alt="Top langs">
+    </div>
   </div>
 </div>
 
