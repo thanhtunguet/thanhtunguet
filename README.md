@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-My name is Phạm Thanh Tùng.
-
-[**https://thanhtunguet.github.io**](https://thanhtunguet.github.io)
-
 <div class="container">
   <div class="row">
     <div class="col" style="align-items: flex-start;">
