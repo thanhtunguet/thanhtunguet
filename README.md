@@ -1,4 +1,4 @@
-### Hi there, I'm thanhtunguet 👋
+## Hi there, I'm thanhtunguet 👋
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtunguet.thanhtunguet)
 
@@ -10,6 +10,8 @@
     </div>
   </div>
 </div>
+
+## Contact me via
 
 LinkedIn: [thanhtunguet](https://www.linkedin.com/in/thanhtunguet/)
 
