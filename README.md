@@ -1,6 +1,8 @@
 ## Hi there, I'm thanhtunguet 👋
+ 
+## GitHub activity stats
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtunguet.thanhtunguet)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtunguet.thanhtunguet)
 
 <div class="container">
   <div class="row">
