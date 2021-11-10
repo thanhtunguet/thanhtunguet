@@ -1,5 +1,8 @@
-## Hi there, I'm thanhtunguet 👋
- 
+## Hi there 👋
+
+- My name is thanhtunguet. 
+- I am currently working on mobile apps development using React Native.
+
 ## GitHub activity stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtunguet.thanhtunguet)
