@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  👋
 
 - My name is thanhtunguet. 
 - I am currently working on mobile apps development using React Native.
