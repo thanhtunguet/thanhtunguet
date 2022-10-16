@@ -19,6 +19,7 @@
 ## Contact me via
 
 LinkedIn: [thanhtunguet](https://www.linkedin.com/in/thanhtunguet/)
+Personal blog: [https://thanhtunguet.info](https://thanhtunguet.info)
 
 <!--
 **thanhtunguet/thanhtunguet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
