@@ -19,6 +19,7 @@
 ## Contact me via
 
 LinkedIn: [thanhtunguet](https://www.linkedin.com/in/thanhtunguet/)
+
 Personal blog: [https://thanhtunguet.info](https://thanhtunguet.info)
 
 <!--
