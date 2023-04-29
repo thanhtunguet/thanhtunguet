@@ -1,8 +1,7 @@
 ## Hi there  👋
 
 - My name is thanhtunguet. 
-- I am currently working on mobile apps development using React Native.
-
+- Software developer from Hanoi, Vietnam
 ## GitHub activity stats
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtunguet.thanhtunguet) -->
