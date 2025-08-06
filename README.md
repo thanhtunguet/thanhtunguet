@@ -1,55 +1,56 @@
-# 👋 Hi, I'm Pham Thanh Tung — Engineer | Builder
+# 🧩 Builder of Systems, Breaker of Bottlenecks
 
-I’m a full-stack product engineer with a strong foundation in system architecture, DevOps, and cross-platform mobile development. Over the past years, I’ve helped build scalable, real-world systems — from anonymous chatbots to government-grade procurement system, IoT solutions — and recently, I'm exploring how Generative AI can supercharge product delivery in early-stage startups.
+I design systems that scale, automate what hurts, and ship fast — without breaking things.
 
-I’m currently a co-founder and tech lead at a startup in Hanoi, where I combine **technical leadership**, **team mentoring**, and **hands-on development** to bring products from zero to one.
-
----
-
-## 🔧 Core Strengths
-
-### 🛠 Full-Stack Engineering with Systems Thinking
-
-* Deep experience with **React Native**, **Flutter**, **Node.js**, **Kubernetes**, **Helm**, and **CI/CD** automation
-* Hands-on in building **tools for automation**, improving team velocity and reducing errors caused by repetitive tasks
-* Led mobile and infrastructure teams in complex, cross-functional projects across IoT and enterprise applications
-
-### 🧪 AI Integration for Productivity & Value Creation
-
-* Building **practical AI features** into internal tools and apps (chatbots, auto-summarization, internal documentation search)
-* Researching best practices in **Prompt Engineering**, **RAG pipelines**, and using LLMs (OpenAI, Gemini, Ollama)
-* Always focused on the question: *"How can AI remove bottlenecks and unlock leverage for our team?"*
-
-### 📚 Knowledge Sharing & Thoughtful Writing
-
-* Maintaining a [technical blog](https://thanhtunguet.info) sharing real-world lessons in DevOps, mobile, and product development
-* Open-sourcing internal tooling, and sharing ideas with engineers to make their lives easier
-* Believing that **clarity of thought** = **clarity in code** = **clarity in communication**
+Currently crafting products in stealth mode, blending **system architecture**, **mobile**, and **AI/LLM integration**. I believe the best tools disappear into the background and the best teams run on trust, clarity, and clean interfaces — both human and machine.
 
 ---
 
-## 🚀 What I’m Building
+## 🛠 What I’m Good At
 
-> I'm currently co-founding a tech startup focused on bringing automation and AI to underserved verticals in Vietnam. My role involves:
+### 💡 Full-Stack, But With Systems Intuition
 
-* Designing scalable system architectures
-* Coaching young developers to reach technical independence
-* Integrating AI/LLMs into product development workflows
+- React Native, Flutter, Node.js, Kubernetes — built it, deployed it, broke it, fixed it
+- CI/CD and internal tooling so devs can stop yelling at Jenkins
+- From mobile apps to enterprise-grade infrastructure — shipped, scaled, and slept well
+
+### 🧠 Practical AI — Not Hype, Just Utility
+
+- Embedding LLMs (OpenAI, Gemini, Ollama) into real-world tools
+- RAG pipelines, prompt tuning, internal chatbots — all about removing human friction
+- AI isn’t replacing developers — but bad ones should be worried
+
+### ✍️ Think Clearly, Build Cleanly
+
+- Write to understand, code to express
+- Occasionally drop thoughts on [this blog](https://thanhtunguet.info) — when caffeine hits clarity
+- If it’s worth building, it’s worth explaining well
 
 ---
 
-## 💬 Let's connect
+## 🔍 What I'm Exploring
 
-If you’re interested in:
+> Bringing automation and LLMs to places that still run on spreadsheets and PDFs.
 
-* Applying LLMs to real-world problems
-* Talking about engineering culture in early-stage startups
-* Or just grabbing a coffee in Hanoi or virtually...
+Currently leading engineering at an early-stage venture in Vietnam. My focus:  
+- Architecting scalable systems from scratch  
+- Mentoring devs to not need mentoring  
+- Injecting AI into workflows where it actually helps
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/thanhtunguet) or open an issue on one of my repos 🙂
+---
 
-## GitHub activity stats
+## ☕️ Come Say Hi (or Don’t)
 
+Interested in:
+- Real-world use of LLMs
+- Engineering culture that doesn’t suck
+- Trading war stories over coffee (Hanoi or online)
+
+Ping me on [LinkedIn](https://linkedin.com/in/thanhtunguet) or open an issue.
+
+---
+
+## 📊 GitHub Vibes
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtunguet.thanhtunguet) -->
 
 <div class="flex flex-row flex-wrap justify-start items-start gap-4">
