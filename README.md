@@ -1,5 +1,3 @@
----
-
 ## 📊 GitHub Vibes
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=thanhtunguet.thanhtunguet) -->
 
